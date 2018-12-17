@@ -4,4 +4,4 @@ Transferring paper notebooks to markdown, so the information is only a click awa
 
 ## Statistics
 
-- [Probability](statistics/probability.md)
+- [Probability](statistics/probability.ipynb)
